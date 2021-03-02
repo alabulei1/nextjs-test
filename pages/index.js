@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://webassemblytoday.substack.com/" className={styles.card}>
-            <h3>Newsletter;</h3>
+            <h3>Newsletter &rarr;</h3>
             <p>Find something new in WebAssembly community.</p>
           </a>
 
@@ -38,7 +38,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.secondstate.io/faas/"
             className={styles.card}
           >
             <h3>Low code Rust &rarr;</h3>
